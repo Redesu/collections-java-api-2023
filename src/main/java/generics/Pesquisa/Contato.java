@@ -1,4 +1,4 @@
-package main.java.Pesquisa;
+package main.java.generics.Pesquisa;
 
 public class Contato {
     private String nome;

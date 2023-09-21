@@ -1,4 +1,4 @@
-package main.java.Ordenacao;
+package main.java.generics.Ordenacao;
 
 public class Produto implements Comparable<Produto> {
     
